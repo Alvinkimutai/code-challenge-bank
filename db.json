@@ -83,6 +83,69 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2024-08-01",
+      "description": "Took Winnie for a Date",
+      "category": "leisure",
+      "amount": "500",
+      "id": 13
+    },
+    {
+      "date": "2024-08-10",
+      "description": "Going to buy a phone",
+      "category": "Gift",
+      "amount": "15000",
+      "id": 14
+    },
+    {
+      "date": "2024-07-30",
+      "description": "cabbage from mama Chemu",
+      "category": "Groceries",
+      "amount": "100",
+      "id": 15
+    },
+    {
+      "date": "2024-07-30",
+      "description": "apple",
+      "category": "Food",
+      "amount": "50",
+      "id": 16
+    },
+    {
+      "date": "2024-07-28",
+      "description": "bought training shoes",
+      "category": "Athletics",
+      "amount": "450",
+      "id": 17
+    },
+    {
+      "date": "2024-08-07",
+      "description": "apple",
+      "category": "Food",
+      "amount": "690",
+      "id": 18
+    },
+    {
+      "date": "2024-07-30",
+      "description": "Buys Hoody ",
+      "category": "Fashion",
+      "amount": "500",
+      "id": 19
+    },
+    {
+      "date": "2024-08-06",
+      "description": "tea bag",
+      "category": "tea",
+      "amount": "60",
+      "id": 20
+    },
+    {
+      "date": "2024-04-03",
+      "description": "Trainer shoes",
+      "category": "olympics",
+      "amount": "600",
+      "id": 21
     }
   ]
 }
