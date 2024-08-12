@@ -17,7 +17,7 @@ function AddTransactionForm({submitForm}) {
   }
   function handleSubmit(event){
     event.preventDefault()
-    if (!formData.date || !formData.description || !formData.category || formData.amount <= 0) {
+    if (!formData.date || !formData.description || !formData.category || !formData.amount) {
       alert("Please fill in all fields with valid data.");
       return;
     }

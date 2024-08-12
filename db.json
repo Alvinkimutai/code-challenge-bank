@@ -146,6 +146,13 @@
       "category": "olympics",
       "amount": "600",
       "id": 21
+    },
+    {
+      "date": "2023-06-06",
+      "description": "Deposits money for wedding",
+      "category": "leisure",
+      "amount": "400",
+      "id": 22
     }
   ]
 }
